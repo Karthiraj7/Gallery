@@ -1,10 +1,34 @@
-# gallery
+![Screenshot 2024-06-20 160032](https://github.com/Karthiraj7/Gallery/assets/108760004/5555e94a-a066-429b-81d6-0ec1e63f6780)# gallery
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Summary: SPFx React Gallery with Breadcrumbs, Lightbox, and SharePoint List Integration
+Project Components
+Gallery Component: Displays images and videos.
+Breadcrumbs Component: Allows navigation through folders.
+Lightbox Component: Shows images and videos in a modal view.
+Key Features!
+Breadcrumbs: Navigate through different folders within the gallery.
+Lightbox: Display images and videos in an overlay modal.
+Relative URLs: Use relative URLs to fetch and display content.
+SharePoint List Integration: Fetch images and videos from a SharePoint list called "Image and Video".
+Implementation Steps
+Set Up SPFx Project: Create an SPFx project using the Yeoman generator with React.
+Create SharePoint List: Set up a list named "Image and Video" with columns like Title, FileUrl, and FileType.
+Fetch Data: Use PnP.js to fetch items from the SharePoint list.
+Implement Breadcrumbs: Maintain navigation state and update it based on user interactions.
+Implement Lightbox: Create a modal component to display the selected image or video.
+Render Gallery: Display fetched items in the gallery with breadcrumb navigation and lightbox functionality.
 
-[picture of the solution in action, if possible]
+![Uploading Screenshot 2024-06-20 160032.![Screenshot 2024-06-20 160043](https://github.com/Karthiraj7/Gallery/assets/108760004/188d4f76-4f25-4d8f-8ae1-cd77fb4672e6)![Screenshot 2024-06-20 160017](https://github.com/Karthiraj7/Gallery/assets/108760004/da08d739-16f6-4262-b922-78edd23fa5f1)
+![Screenshot 2024-06-20 153433](https://github.com/Karthiraj7/Gallery/assets/108760004/347f7455-e77b-4865-be83-a8dbd5d06cc1)
+![Screenshot 2024-06-20 153403](https://github.com/Karthiraj7/Gallery/assets/108760004/ab047d81-9359-41a1-a208-5d8c7f3a05e4)
+…]()
+
+
+
+
+
 
 ## Used SharePoint Framework Version
 
