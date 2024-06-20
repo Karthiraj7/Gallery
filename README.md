@@ -1,4 +1,4 @@
-![Screenshot 2024-06-20 160032](https://github.com/Karthiraj7/Gallery/assets/108760004/5555e94a-a066-429b-81d6-0ec1e63f6780)# gallery
+![Screenshot 2024-06-20 160043](https://github.com/Karthiraj7/Gallery/assets/108760004/c613e37a-cf7c-406e-bc1c-918c5798a3fd)![Screenshot 2024-06-20 160032](https://github.com/Karthiraj7/Gallery/assets/108760004/5555e94a-a066-429b-81d6-0ec1e63f6780)# gallery
 
 ## Summary
 
@@ -20,10 +20,15 @@ Implement Breadcrumbs: Maintain navigation state and update it based on user int
 Implement Lightbox: Create a modal component to display the selected image or video.
 Render Gallery: Display fetched items in the gallery with breadcrumb navigation and lightbox functionality.
 
-![Uploading Screenshot 2024-06-20 160032.![Screenshot 2024-06-20 160043](https://github.com/Karthiraj7/Gallery/assets/108760004/188d4f76-4f25-4d8f-8ae1-cd77fb4672e6)![Screenshot 2024-06-20 160017](https://github.com/Karthiraj7/Gallery/assets/108760004/da08d739-16f6-4262-b922-78edd23fa5f1)
-![Screenshot 2024-06-20 153433](https://github.com/Karthiraj7/Gallery/assets/108760004/347f7455-e77b-4865-be83-a8dbd5d06cc1)
-![Screenshot 2024-06-20 153403](https://github.com/Karthiraj7/Gallery/assets/108760004/ab047d81-9359-41a1-a208-5d8c7f3a05e4)
-…]()
+
+![Screenshot 2024-06-20 153403](https://github.com/Karthiraj7/Gallery/assets/108760004/08b15866-33c6-4997-b368-1afd80568f18)
+![Screenshot 2024-06-20 160043](https://github.com/Karthiraj7/Gallery/assets/108760004/d2eaa387-96c7-48c3-a066-cc6cb777f32e)
+
+![Screenshot 2024-06-20 160017](https://github.com/Karthiraj7/Gallery/assets/108760004/4abcff79-5889-4105-813b-652519cab602)
+![Screenshot 2024-06-20 160032](https://github.com/Karthiraj7/Gallery/assets/108760004/f13c5d7b-9b86-4df7-9f1e-824116ee5e4c)
+
+
+![Screenshot 2024-06-20 153433](https://github.com/Karthiraj7/Gallery/assets/108760004/a26253ad-d474-44d9-9ffc-e631758964de)
 
 
 
